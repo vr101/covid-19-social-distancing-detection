@@ -1,6 +1,6 @@
 # covid-19-social-distancing-detection
 
-ABSTRACT
+# ABSTRACT
 
 
 COVID-19, caused by a novel virus, the coronavirus or SARS-CoV-2 is a respiratory illness
@@ -29,7 +29,7 @@ To tackle the highlighted issue, this project proposes a deep learning based mod
 automating the task of monitoring social distancing using surveillance video.
 
 
-OBJECTIVES
+# OBJECTIVES
 
 
 The aim of this project is
