@@ -1,6 +1,8 @@
 # covid-19-social-distancing-detection
 
 ABSTRACT
+
+
 COVID-19, caused by a novel virus, the coronavirus or SARS-CoV-2 is a respiratory illness
 that has become a pandemic.
 This virus, first detected in Wuhan, Hubei Province, China has spread across the world in more
@@ -23,7 +25,11 @@ However, individuals are not used to tracking the required 6-feet (2-meters) dis
 between themselves and their surroundings.
 To tackle the highlighted issue, this project proposes a deep learning based model for
 automating the task of monitoring social distancing using surveillance video.
+
+
 OBJECTIVES
+
+
 The aim of this project is
 • to incorporate a deep learning-based real-time object detector into a a monocular camera to
 measure social distancing and to ensure that,
