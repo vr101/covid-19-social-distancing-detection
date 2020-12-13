@@ -44,7 +44,7 @@ from the background and Deepsort approach to track the identified people with th
 bounding boxes and assigned IDs.
 
 The distance between any two persons is computed. The major issue while calculating this
-distance is that working with the point of view of the surveilla006Ece cameras does not provide
+distance is that working with the point of view of the surveillance cameras does not provide
 us with a bird's eye view, rather a skewed view from the angle at which the camera is placed.
 
 This hampers the calculations and leads us to incorrect evaluation.
